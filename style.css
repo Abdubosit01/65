@@ -1,0 +1,52 @@
+
+
+h1{
+    background: #B76AFF;
+    background: linear-gradient(to right, #B76AFF 0%, #E3FF10 12%, #F652FF 81%, #E3FF12 15%, #11CCCF 87%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 100px;
+   font-size: 50px;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+    background-color: black;
+}
+
+
+div{
+    border: 1px solid;
+    height: 500px;
+width: 900px;
+text-align: center;
+background: #09090d;
+background: linear-gradient(90deg, rgba(9, 9, 13, 1) 0%, rgba(9, 9, 121, 1) 65%, rgba(0, 212, 255, 1) 100%);
+}
+
+p{
+    color: white;
+   font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
